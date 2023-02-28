@@ -1,5 +1,5 @@
 ### Hi there 👋 I`m Alphan Kihara 
-Software Developer
+# Software Developer
 
 - 🔭 I’m currently working on Rails apps
 - 🌱 I’m currently learning Hotwire and Stimulus
