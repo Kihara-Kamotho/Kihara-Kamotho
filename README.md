@@ -2,7 +2,7 @@
 Software Developer
 
 - 🔭 I’m currently working on Rails apps
-- 🌱 I’m currently learning Hotwire
+- 🌱 I’m currently learning Hotwire and Stimulus
 - 👯 I’m open to collaborate on interesting projects
 - 📫 How to reach me: kiharaalphan@gmail.com
 <!--
