@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I`m Alphan Kihara 
+Software Developer
 
+ 👯 I’m open to collaborate on interesting projects
+  📫 How to reach me: kiharaalphan@gmail.com
 <!--
 **Kihara-Kamotho/Kihara-Kamotho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
