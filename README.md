@@ -2,8 +2,8 @@
  Software Developer
 
 - 🔭 Rails dev
-- 🌱 I’m currently learning Hotwire and Stimulus
-- 👯 I’m open to collaborate on interesting projects
+- 🌱 Currently learning Hotwire and Stimulus
+- 👯 Open to collaborate on interesting projects
 - 📫 How to reach me: kiharaalphan@gmail.com
 <!--
 **Kihara-Kamotho/Kihara-Kamotho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
