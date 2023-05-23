@@ -1,8 +1,7 @@
 ### Hi there 👋 I`m Alphan Kihara 
  Software Developer
 
-- 🔭 Rails dev
-- 🌱 Currently learning Hotwire and Stimulus
+- 🔭 Rails dev, Hotwire, Stimulus
 - 👯 Open to collaborate on interesting projects
 - 📫 How to reach me: kiharaalphan@gmail.com
 <!--
