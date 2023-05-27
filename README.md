@@ -4,7 +4,6 @@
 - 🔭 Rails dev, Hotwire, Stimulus
 - 👯 Looking to collaborate on interesting projects
 - 📫 How to reach me: kiharaalphan@gmail.com
-- ⚡ Fun fact: Champions League winner with @LFC
 <!--
 **Kihara-Kamotho/Kihara-Kamotho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
